@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Colby Garland</h1>
+<img src="https://user-images.githubusercontent.com/8784306/107062727-74f28580-678e-11eb-954a-736ad2fc1bac.png" alt="Colby Garland" />
 <h3 align="center">A passionate full stack developer from Canada.</h3>
 
 <p align="center">Currently working with Laravel and React (NextJS, React Native)</p>
