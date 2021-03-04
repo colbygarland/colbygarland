@@ -7,3 +7,5 @@
 <a href="https://twitter.com/xcolbyg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="xcolbyg" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/colbygarland" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="colbygarland" height="30" width="30" /></a>
 </p>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=colbygarland" alt="circa10a" /></p>
