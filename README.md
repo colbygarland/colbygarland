@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/8784306/107062727-74f28580-678e-11eb-954a-736ad2fc1bac.png" alt="Colby Garland" />
-<h3 align="center">A passionate full stack developer from Canada.</h3>
+<h3 align="center">A passionate Software Engineer from Canada.</h3>
 
-<p align="center">Currently working with Laravel and React (NextJS, React Native)</p>
+<p align="center">Currently working with TypeScript, Flutter/Dart, React/React Native, Laravel/PHP.</p>
 
 <p align="center">
 <a href="https://twitter.com/xcolbyg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="xcolbyg" height="30" width="30" /></a>
